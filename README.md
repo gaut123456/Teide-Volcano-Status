@@ -1,9 +1,10 @@
-# React + Vite
+# Teide Volcano Status
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project provides a web application to display the current status of the Teide Volcano, including weather conditions, hiking trails, facilities, and a 6-day weather forecast. The application is built using React and Vite, with Tailwind CSS for styling.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# Teide-Volcano-Status
+- Display current weather conditions at the Teide Volcano.
+- Show the status of hiking trails and facilities.
+- Provide a 6-day weather forecast.
+- Toggle between light and dark modes.
